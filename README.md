@@ -44,13 +44,3 @@ This repository contains a collection of machine learning projects using Keras a
 ### Checkpoints
 
 - **.ipynb_checkpoints**: Jupyter Notebook checkpoints directory for autosaved versions of notebooks during development.
-
-## Usage
-
-To explore and execute these notebooks:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-
-
-
