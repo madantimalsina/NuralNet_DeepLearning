@@ -40,7 +40,3 @@ This repository contains a collection of machine learning projects using Keras a
 
 - **full_data_project_model.h5**: A pre-trained model file for one of the projects. Can be loaded and used for inference or further fine-tuning.
 - **my_model.h5**: Another pre-trained model, specific to a project within this repository.
-
-### Checkpoints
-
-- **.ipynb_checkpoints**: Jupyter Notebook checkpoints directory for autosaved versions of notebooks during development.
